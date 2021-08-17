@@ -1,0 +1,20 @@
+{
+  "name": "@brixtol/tsconfig",
+  "version": "1.0.0",
+  "description": "Brixtol Textiles TypeScript Configuration",
+  "homepage": "https://liquify.dev",
+  "author": {
+    "name": "Νίκος Σαβίδης ",
+    "email": "n@brixtol.com",
+    "url": "https://brixtoltextiles.com"
+  },
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brixtol/tsconfig"
+  },
+  "bugs": {
+    "url": "https://github.com/brixtol/tsconfig"
+  }
+}
