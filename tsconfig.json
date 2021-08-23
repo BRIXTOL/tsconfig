@@ -8,7 +8,6 @@
   "compilerOptions": {
     "incremental": true,
     "declaration": true,
-    "outDir": "package",
     "target": "ESNext",
     "module": "ESNext",
     "alwaysStrict": true,
